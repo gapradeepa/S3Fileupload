@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Pradeepa\\Learn\\API\\S3Fileupload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{332DA87F-17B8-49DE-8800-CCB724FAD032}|S3Fileupload.API\\S3Fileupload.API.csproj|c:\\pradeepa\\learn\\api\\s3fileupload\\s3fileupload.api\\controllers\\bucketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332DA87F-17B8-49DE-8800-CCB724FAD032}|S3Fileupload.API\\S3Fileupload.API.csproj|solutionrelative:s3fileupload.api\\controllers\\bucketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332DA87F-17B8-49DE-8800-CCB724FAD032}|S3Fileupload.API\\S3Fileupload.API.csproj|c:\\pradeepa\\learn\\api\\s3fileupload\\s3fileupload.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{332DA87F-17B8-49DE-8800-CCB724FAD032}|S3Fileupload.API\\S3Fileupload.API.csproj|solutionrelative:s3fileupload.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332DA87F-17B8-49DE-8800-CCB724FAD032}|S3Fileupload.API\\S3Fileupload.API.csproj|c:\\pradeepa\\learn\\api\\s3fileupload\\s3fileupload.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{332DA87F-17B8-49DE-8800-CCB724FAD032}|S3Fileupload.API\\S3Fileupload.API.csproj|solutionrelative:s3fileupload.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332DA87F-17B8-49DE-8800-CCB724FAD032}|S3Fileupload.API\\S3Fileupload.API.csproj|c:\\pradeepa\\learn\\api\\s3fileupload\\s3fileupload.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{332DA87F-17B8-49DE-8800-CCB724FAD032}|S3Fileupload.API\\S3Fileupload.API.csproj|solutionrelative:s3fileupload.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332DA87F-17B8-49DE-8800-CCB724FAD032}|S3Fileupload.API\\S3Fileupload.API.csproj|c:\\pradeepa\\learn\\api\\s3fileupload\\s3fileupload.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332DA87F-17B8-49DE-8800-CCB724FAD032}|S3Fileupload.API\\S3Fileupload.API.csproj|solutionrelative:s3fileupload.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Pradeepa\\Learn\\API\\S3Fileupload\\S3Fileupload.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "S3Fileupload.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Pradeepa\\Learn\\API\\S3Fileupload\\S3Fileupload.API\\appsettings.Development.json",
+              "RelativeToolTip": "S3Fileupload.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T01:15:49.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Pradeepa\\Learn\\API\\S3Fileupload\\S3Fileupload.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "S3Fileupload.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Pradeepa\\Learn\\API\\S3Fileupload\\S3Fileupload.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "S3Fileupload.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T00:51:40.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BucketsController.cs",
+              "DocumentMoniker": "C:\\Pradeepa\\Learn\\API\\S3Fileupload\\S3Fileupload.API\\Controllers\\BucketsController.cs",
+              "RelativeDocumentMoniker": "S3Fileupload.API\\Controllers\\BucketsController.cs",
+              "ToolTip": "C:\\Pradeepa\\Learn\\API\\S3Fileupload\\S3Fileupload.API\\Controllers\\BucketsController.cs",
+              "RelativeToolTip": "S3Fileupload.API\\Controllers\\BucketsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T00:24:17.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Pradeepa\\Learn\\API\\S3Fileupload\\S3Fileupload.API\\appsettings.json",
+              "RelativeDocumentMoniker": "S3Fileupload.API\\appsettings.json",
+              "ToolTip": "C:\\Pradeepa\\Learn\\API\\S3Fileupload\\S3Fileupload.API\\appsettings.json",
+              "RelativeToolTip": "S3Fileupload.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T00:20:39.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Pradeepa\\Learn\\API\\S3Fileupload\\S3Fileupload.API\\Program.cs",
+              "RelativeDocumentMoniker": "S3Fileupload.API\\Program.cs",
+              "ToolTip": "C:\\Pradeepa\\Learn\\API\\S3Fileupload\\S3Fileupload.API\\Program.cs",
+              "RelativeToolTip": "S3Fileupload.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T00:18:00.12Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6S+8OWOTlCSsljYKjtS9S/dwJpDVVbRBpAk1NMl0vTw=",
+  "Source": "S3Fileupload.API",
+  "BasePath": "_content/S3Fileupload.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
